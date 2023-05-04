@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Gabriel</h2>
+<h2 align="center">Olá 👋, me chamo Gabriel</h2>
 <h3 align="center">O universo é infinito logo, as possíbilidades também.</h3>
 
 <p align="right">
@@ -29,26 +29,27 @@
 </p>
 
   
-  <img align="right" alt="Coding" width="400" src="https://i.imgur.com/yrpsqZO.png"/>
+  <img align="right" alt="Coding" width="450" src="https://i.imgur.com/yrpsqZO.png"/>
   
   </br>
 
 
 </br>
-<h4 align="center">A passionate frontend developer from India</h4>
-  Na minha graduação em mecatrônica aprendi a programar em C, linguagem usada nos microcontroladores.</br>
-  Ali vislumbrei o poder da comunicação de máquina. Desde então foram quilometros de códigos escrito,
-  desde **jogos** a **API's**, de **aplicativos** a **carrinhos de batalha sumô**.</br>
-  Estou sempre pronto para o próximo projeto, isso é só o inicio.</br>
-  Atualmente busco experiência profissional.
+<h3 align="center">Desenvolvedor FullStack apaixonado por criar</h3>
 
-<h7 align="left">Connect with me: gabriel_silvapassos@hotmail.com</h7>
 
+ &nbsp; &nbsp;Aprendi a programar em C na minha graduação em mecatrônica, linguagem usada também nos microcontroladores.</br>
+ &nbsp; &nbsp;Ali vislumbrei o poder da comunicação de máquina. Desde então foram quilômetros de códigos escritos, desde jogos a API's, de aplicativos a carrinhos de batalha sumô.</br>
+ &nbsp; &nbsp;Atualmente em complemento, estudo as linguagens Node.JS e Angular.</br>
+ &nbsp; &nbsp;Estou sempre pronto para o próximo projeto, esse é só o início.</br>
+ &nbsp; &nbsp;Busco minha primeira experiência formal na área.
 </br></br></br>
-
+ &nbsp; &nbsp;<h7 align="left"> **Contato:**&nbsp;gabriel_silvapassos@hotmail.com</h7>
+</br>
+</br>
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellpassos&show_icons=true&locale=en&layout=compact" alt="gabriellpassos" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
