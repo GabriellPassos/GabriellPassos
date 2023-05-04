@@ -1,5 +1,5 @@
 <h2 align="center">Olá 👋, me chamo Gabriel</h2>
-<h3 align="center">O universo é infinito logo, as possíbilidades também.</h3>
+<h3 align="center">O universo é infinito, logo as possíbilidades também.</h3>
 
 <p align="right">
 
