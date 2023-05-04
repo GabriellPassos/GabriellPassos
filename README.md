@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">Hi 👋, I'm Gabriel</h2>
+<h3 align="center">O universo é infinito logo, as possíbilidades também.</h3>
 
 <p align="right">
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h4 align="center">Linguagens e Ferramentas:</h4>
 
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"       height="40"/> 
@@ -36,19 +36,11 @@
 
 </br>
 <h4 align="center">A passionate frontend developer from India</h4>
-
- 🔭 I’m currently working on **orkut**
-  🔭 I’m currently working on **orkut**
-  🔭 I’m currently working on **orkut**- 🔭 I’m currently working on **orkut**- 🔭 I’m currently working on **orkut**
-  🔭 I’m currently working on **orkut**
-🔭 I’m currently working on **orkut**
- 🔭 I’m currently working on **orkut**
-  🔭 I’m currently working on **orkut**
-  🔭 I’m currently working on **orkut**- 🔭 I’m currently working on **orkut**- 🔭 I’m currently working on **orkut**
-  🔭 I’m currently working on **orkut**
-🔭 I’m currently working on **orkut**
-
-
+  Na minha graduação em mecatrônica aprendi a programar em C, linguagem usada nos microcontroladores.</br>
+  Ali vislumbrei o poder da comunicação de máquina. Desde então foram quilometros de códigos escrito,
+  desde **jogos** a **API's**, de **aplicativos** a **carrinhos de batalha sumô**.</br>
+  Estou sempre pronto para o próximo projeto, isso é só o inicio.</br>
+  Atualmente busco experiência profissional.
 
 <h7 align="left">Connect with me: gabriel_silvapassos@hotmail.com</h7>
 
