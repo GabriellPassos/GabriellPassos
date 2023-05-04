@@ -14,4 +14,4 @@
 <img align=right alt="Coding" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img align=right alt="Coding" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit"/>
-<img align=right alt="Coding" width="500" src="https://imgur.com/yrpsqZO"/>
+<img align=right alt="Coding" width="500" src="https://i.imgur.com/yrpsqZO.png"/>
