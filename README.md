@@ -41,7 +41,7 @@
  &nbsp; &nbsp;Aprendi a programar em **C** na minha graduação em mecatrônica, linguagem usada também nos microcontroladores.</br>
  &nbsp; &nbsp;Ali vislumbrei o poder da comunicação de máquina. Desde então foram quilômetros de códigos escritos, desde jogos a **API's**, de **aplicativos** a **carrinhos de batalha sumô**.</br>
  &nbsp; &nbsp;Estou sempre pronto para o próximo projeto, esse é só o início.</br>
-  &nbsp; &nbsp;Atualmente me aprofundando em **Node.JS** e **Angular**</br>
+  &nbsp; &nbsp;Atualmente me aprofundando em **Node.JS** e **Angular**.</br>
  &nbsp; &nbsp;Busco minha primeira experiência formal na área.
 </br></br></br>
  &nbsp; &nbsp;<h7 align="left"> **Contato:**&nbsp;gabriel_silvapassos@hotmail.com</h7>
