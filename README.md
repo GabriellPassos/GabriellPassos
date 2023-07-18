@@ -38,13 +38,16 @@
 <h3 align="center">Desenvolvedor FullStack apaixonado por criar</h3>
 
 
- &nbsp; &nbsp;Aprendi a programar em **C** na minha graduação em mecatrônica, linguagem usada também nos microcontroladores.</br>
- &nbsp; &nbsp;Ali vislumbrei o poder da comunicação de máquina. Desde então foram quilômetros de códigos escritos, desde jogos a **API's**, de **aplicativos** a **carrinhos de batalha sumô**.</br>
- &nbsp; &nbsp;Estou sempre pronto para o próximo projeto, esse é só o início.</br>
-  &nbsp; &nbsp;Atualmente me aprofundando em **Node.JS** e **Angular**.</br>
- &nbsp; &nbsp;Busco minha primeira experiência formal na área.
+ &nbsp; &nbsp;Aprendi a programar em **C** na minha graduação em mecatrônica.</br>
+ &nbsp; &nbsp;Me julgo criativo e animado, tenho sempre um projeto em mente.</br>
+  &nbsp; &nbsp;Atualmente me aprofundando em **Node.JS** e **Angular** mas tenho como linguagem primária o **C#**.</br>
+ &nbsp; &nbsp;Busco minha primeira experiência formal na área.</br>
+ 
+   &nbsp; &nbsp;Te convido a conhecer meus projetos.</br>
 </br></br></br>
- &nbsp; &nbsp;<h7 align="left"> **Contato:**&nbsp;gabriel_silvapassos@hotmail.com</h7>
+#### Contato
+ <h7 align="left">**Email**: gabriel_silvapassos@hotmail.com</h7></br>
+ <h7 align="left">**Likedin**: www.linkedin.com/in/gabrielsilvapassos/</h7>
 </br>
 </br>
 <p align="right">
