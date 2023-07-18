@@ -40,7 +40,7 @@
 
  &nbsp; &nbsp;A primeira linguagem de programação que aprendi foi **C**, quando cursei mecatrônica na ETEC.</br>
  &nbsp; &nbsp;Me julgo criativo e animado, tenho sempre um projeto em mente.</br>
-  &nbsp; &nbsp;Atualmente me aprofundando em **Node.JS** e **Angular** mas tenho como linguagem majoritária o **C#**.</br>
+  &nbsp; &nbsp;Atualmente me aprofundando em **NodeJS** e **Angular** mas tenho como linguagem majoritária o **C#**.</br>
  &nbsp; &nbsp;Busco minha primeira experiência formal na área.</br>
  
    &nbsp; &nbsp;**Te convido a conhecer meus projetos**.</br>
