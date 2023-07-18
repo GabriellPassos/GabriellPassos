@@ -43,7 +43,7 @@
   &nbsp; &nbsp;Atualmente me aprofundando em **Node.JS** e **Angular** mas tenho como linguagem primária o **C#**.</br>
  &nbsp; &nbsp;Busco minha primeira experiência formal na área.</br>
  
-   &nbsp; &nbsp;Te convido a conhecer meus projetos.</br>
+   &nbsp; &nbsp;**Te convido a conhecer meus projetos**.</br>
 </br></br></br>
 #### Contato
  <h7 align="left">**Email**: gabriel_silvapassos@hotmail.com</h7></br>
