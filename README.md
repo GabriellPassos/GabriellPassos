@@ -33,7 +33,7 @@
 
 
 </br>
-<h3 align="center">Desenvolvedor FullStack apaixonado por criar</h3>
+<h3 align="center">Desenvolvedor Aprendiz apaixonado por criar</h3>
 
 
  &nbsp; &nbsp;A primeira linguagem de programação que aprendi foi **C**, quando cursei mecatrônica na ETEC.</br>
